@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1608655230 source:c:\users\mamdr\onedrive\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+	"module4.h"
+
+1608646149 c:\users\mamdr\onedrive\desktop\proiect\module3.h
+	<stdlib.h>
+
+1608634632 source:c:\users\mamdr\onedrive\desktop\proiect\module3.h
+	<stdlib.h>
+
+1608644956 source:c:\users\mamdr\onedrive\desktop\proiect\module3.c
+	"module3.h"
+
+1608642984 c:\users\mamdr\onedrive\desktop\proiect\module4.h
+	<stdlib.h>
+
+1608644957 source:c:\users\mamdr\onedrive\desktop\proiect\module4.c
+	"module4.h"
+
+1608642984 source:c:\users\mamdr\onedrive\desktop\proiect\module4.h
+	<stdlib.h>
+
+1608653893 c:\users\mamdr\onedrive\desktop\proiect\module1.h
+	<stdlib.h>
+
+1608653715 c:\users\mamdr\onedrive\desktop\proiect\module2.h
+	<stdlib.h>
+
+1608655230 source:c:\users\mamdr\onedrive\desktop\proiect\module1.c
+	"module1.h"
+
+1608654775 source:c:\users\mamdr\onedrive\desktop\proiect\module2.c
+	"module2.h"
+
+1608655230 source:c:\users\mamdr\onedrive\documente\cp\proiect\module1.c
+	"module1.h"
+
+1608653893 c:\users\mamdr\onedrive\documente\cp\proiect\module1.h
+	<stdlib.h>
+
+1608654775 source:c:\users\mamdr\onedrive\documente\cp\proiect\module2.c
+	"module2.h"
+
+1608653715 c:\users\mamdr\onedrive\documente\cp\proiect\module2.h
+	<stdlib.h>
+
+1608644956 source:c:\users\mamdr\onedrive\documente\cp\proiect\module3.c
+	"module3.h"
+
+1608646149 c:\users\mamdr\onedrive\documente\cp\proiect\module3.h
+	<stdlib.h>
+
+1608644957 source:c:\users\mamdr\onedrive\documente\cp\proiect\module4.c
+	"module4.h"
+
+1608642984 c:\users\mamdr\onedrive\documente\cp\proiect\module4.h
+	<stdlib.h>
+
+1609786701 source:c:\users\mamdr\onedrive\documente\cp\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"module1.h"
+	"module2.h"
+	"module3.h"
+	"module4.h"
+
